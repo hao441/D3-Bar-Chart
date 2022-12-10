@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap");
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+#tooltipDiv {
+  height: 50;
+  width: 50;
+}
+
+.hello {
+  width: 500px;
+  height: 50px;
+  background-color: black;
+  display: absolute;
+  z-index: 1;
+}
+
+#hello text {
+  color: white;
+}
